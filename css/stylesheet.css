@@ -5,3 +5,51 @@
     margin: 0;
     border: 0;
 }
+div {
+    margin-left: 5%;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    display: inline-flex;
+    font-size: 18px;
+    font-weight: lighter;
+}
+a {
+    display: inline-flex;
+    padding-bottom: 1%;
+    font-size: 18px;
+}
+#card {
+    display: block;
+    width: 75%;
+    margin-top: 2%;
+    border: solid 1px rgb(122, 122, 122);
+}
+#box {
+    display: block;
+    background-color: rgb(20, 172, 199);
+    height: 60px;
+    margin-left: 0%;
+}
+#user {
+    display: flex;
+    border: solid 2px rgb(122, 122, 122);
+    border-radius: 50%;
+    background-color: rgb(255,255,255);
+    width: 50px;
+    margin-left: 5%;
+    margin-top: -5%;
+    padding: 0.5%;
+}
+.iconboxes {
+    display: block;
+    margin: 1%;
+    font-size: 18px;
+}
+.icons {
+    display: inline-flex;
+    height: 18px;
+    margin-right: 1%;
+}
